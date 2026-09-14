@@ -44,7 +44,7 @@
 		
 		<repository>
   <id>mydevops-feed</id>
-  <url>https://pkgs.dev.azure.com/shaikmustafa8991/myproject/_packaging/mydevops-feed/maven/v1</url>
+  <url>http://54.167.15.133:8081/repository/nexus/</url>
   <releases>
     <enabled>true</enabled>
   </releases>
