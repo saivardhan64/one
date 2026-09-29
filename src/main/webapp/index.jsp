@@ -524,7 +524,7 @@
             <nav class="main-nav" id="mainNav" aria-label="Primary navigation">
                 <ul>
                     <li><a href="#"><em class="fas fa-home"></em> Home</a></li>
-                    <li class="has-dropdown" aria-haspopup="true">
+                    <div role="checkbox" aria-checked="true">Unchecked</div>
                         <a href="#" id="catMenuBtn"><em class="fas fa-th-large"></em> Categories <em class="fas fa-chevron-down" style="font-size:12px;"></em></a>
                     </li>
                     <li><a href="#"><em class="fas fa-fire"></em> Trending</a></li>
